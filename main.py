@@ -5,11 +5,11 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 
 # --- Configuration ---
 # Your Bot Token from @BotFather
-BOT_TOKEN = "YOUR_BOT_TOKEN" 
+BOT_TOKEN = "8440977047:AAH1pW3ZFCroNW0TaEf3iKUMBItpavirhJw" 
 
 # Custom message for users who try to interact with the bot in a private chat
 DM_MESSAGE = "This bot is made by: @XCid_Kagenou and is exclusive to the Ashleel X community."
-
+OWNER_ID = 6449644059
 # --- Bot Setup ---
 # Enable logging
 logging.basicConfig(
